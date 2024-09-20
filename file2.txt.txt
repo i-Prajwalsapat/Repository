@@ -1,2 +1,0 @@
-File name has been given as File1.txt.txt and File2.txt.txt
-Instead it should be File1.txt and File2.txt respectively
